@@ -1,0 +1,11 @@
+{
+    "navigationBarTitleText":"例子",
+    "navigationBarTextStyle":"black",
+    "navigationBarBackgroundColor":"#ffffff",
+    "backgroundColorTop": "#F3F4F5",
+    "backgroundColorBottom": "#F3F4F5",
+    "usingComponents": {
+        "logs": "../components/logs/logs"
+      }
+  }
+  

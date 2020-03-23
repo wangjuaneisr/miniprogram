@@ -1,0 +1,4 @@
+<view>
+    logs logs logs {{paramA}}
+    <button bindtap="onTap">click</button>
+</view>
