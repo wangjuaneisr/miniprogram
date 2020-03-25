@@ -1,5 +1,5 @@
 <view class="container">
-  <view class="userinfo">
+  <!-- <view class="userinfo">
     <button wx:if="{{!hasUserInfo && canIUse}}"> 获取头像昵称 </button>
     <block wx:else>
       <image src="{{userInfo.avatarUrl}}" background-size="cover"></image>
@@ -8,6 +8,17 @@
   </view>
   <view class="usermotto">
     <text class="user-motto">{{motto}}</text>
+  </view> -->
+
+  <!-- <logs paramA="{{para}}" bindmyevent="clickMe"></logs> -->
+  <!-- <view class="boxClass boxClass1" id="boxId">box</view> -->
+
+  <view class="flexBox">
+    <view>flexBox1 </view>
+    <view>flexBox2</view>
+    <view>flexBox3</view>
+    <view>flexBox4</view>
   </view>
-  <logs paramA="{{para}}" bindmyevent="clickMe"></logs>
+
+  <!-- <navigator class="alink" url="/pages/home/home"></navigator> -->
 </view>
